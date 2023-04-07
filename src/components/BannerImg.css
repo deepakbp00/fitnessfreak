@@ -1,0 +1,48 @@
+
+    svg{
+        width:700px;
+    }
+    #undraw_personal_training_0dqn-u-dumble-1 {
+        animation: bounce 3s infinite ease-in-out alternate;
+      }
+      #undraw_personal_training_0dqn-u-dumble-2 {
+        animation: bounce 2s infinite ease-in-out alternate;
+      }
+     #undraw_personal_training_0dqn-u-dumbles-3{
+        animation: bounce 1.5s infinite ease-in-out alternate;
+      }
+      #undraw_personal_training_0dqn-u-girl-2-hair{
+        position: absolute;
+        animation: bounce2 2s infinite ease-in-out alternate;
+         transform-box: fill-box;
+      }
+      #undraw_personal_training_0dqn-u-girl-1-hair{
+        position: absolute;
+        animation: bounce3 2s infinite ease-in-out alternate;
+         transform-box: fill-box;
+      }
+      @keyframes bounce {
+        0% {
+          transform: translateY(5px);
+        }
+        100% {
+          transform: translateY(-30px);
+        }
+
+      }
+      @keyframes bounce2 {
+        0% {
+            transform: translate(-149%, -155%);
+          }
+          100% {
+            transform: translate(-149%, -151%); /* move down */
+          }
+    }
+    @keyframes bounce3 {
+        0% {
+            transform: translate(-110%, -89%);
+          }
+          100% {
+            transform: translate(-108%, -87%); /* move down */
+          }
+    }
