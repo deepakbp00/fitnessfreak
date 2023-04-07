@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitnessfreak/static/css/main.14c86b7b.css",
+    "main.js": "/fitnessfreak/static/js/main.57f8794d.js",
+    "static/media/gymLogo.png": "/fitnessfreak/static/media/gymLogo.b107fc3ce0189420a9b7.png",
+    "static/media/gym.png": "/fitnessfreak/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/fitnessfreak/index.html",
+    "main.14c86b7b.css.map": "/fitnessfreak/static/css/main.14c86b7b.css.map",
+    "main.57f8794d.js.map": "/fitnessfreak/static/js/main.57f8794d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c86b7b.css",
+    "static/js/main.57f8794d.js"
+  ]
+}
